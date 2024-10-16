@@ -7,4 +7,8 @@ If you are interested, join `#probabilistic-programming` on Turing's Slack. If y
 ## Sessions
 
 * 2024-09-25: @penelopeysm will lead a session on basics of Markov Chain Monte Carlo and Metropolis Hastings.
-* 2024-10-08: @penelopeysm will continue the introduction to Metropolis-Hastings and MCMC with an example application for Bayesian inference. @mhauru will also talk about the theory of why Metropolis-Hastings works, and we’ll have a discussion about autocorrelation in MCMC, and how it needs to be accounted for.
+* 2024-10-09: @penelopeysm will continue the introduction to Metropolis-Hastings and MCMC with an example application for Bayesian inference. @mhauru will also talk about the theory of why Metropolis-Hastings works, and we’ll have a discussion about autocorrelation in MCMC, and how it needs to be accounted for.
+* 2024-10-23: @mhauru will lead a session on some theory of Metropolis sampling and an intro to Hamiltonian Monte Carlo
+* 2024-11-06: @radka-j will lead an introduction to Stan
+* 2024-11-20: Andrew Duncan will lead a session on particle filters/sequential Monte Carlo
+* 2024-12-04: @willtebbutt will lead a session on automatic differentiation
