@@ -14,4 +14,4 @@ If you are interested, join `#probabilistic-programming` on Turing's Slack. If y
 * 2024-11-20: @aduncan001 will lead a session on particle filters/sequential Monte Carlo
 * 2024-12-04: @willtebbutt will lead a session on automatic differentiation
 * 2024-12-11: @willtebbutt on automatic differentiation, part 2
-* 2025-01-08: @mallewellyn will lead the session, topic tbd
+* 2025-01-15: @mallewellyn will lead a session on particle MCMC
