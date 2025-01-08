@@ -15,3 +15,6 @@ If you are interested, join `#probabilistic-programming` on Turing's Slack. If y
 * 2024-12-04: @willtebbutt will lead a session on automatic differentiation
 * 2024-12-11: @willtebbutt on automatic differentiation, part 2
 * 2025-01-15: @mallewellyn will lead a session on particle MCMC
+* 2025-01-29: @sunxd3 will lead a session on BUGS/JuliaBUGS
+* 2025-02-12: @penelopeysm will lead a session on transformations of random variables in MCMC
+* 2025-02-26: @phinate will lead an intro to normalising flows
