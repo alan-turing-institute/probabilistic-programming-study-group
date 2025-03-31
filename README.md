@@ -19,4 +19,7 @@ If you are interested, join `#probabilistic-programming` on Turing's Slack. If y
 * 2025-02-12: @penelopeysm will lead a session on transformations of random variables in MCMC
 * 2025-03-12: @sheinkmana will lead an intro to variational inference
 * 2025-03-26: @RedPortal will talk about variational inference from an algorithm developer’s perspective
-* 2025-04-09: @phinate will lead an intro to normalising flows
+* 2025-04-09: 
+* 2025-04-23: 
+* 2025-05-07: @phinate will lead an intro to normalising flows
+* 2025-05-21: 
