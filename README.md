@@ -22,3 +22,4 @@ If you are interested, join `#probabilistic-programming` on Turing's Slack. If y
 * 2025-04-09: @aduncan001 will talk about PyMC in industry
 * 2025-05-07: @phinate will lead an intro to normalising flows
 * 2025-05-21: @sgreenbury and @marjanfamili will talk about TensorFlow Probability and Pyro, respectively, from a user's point of view
+* 2025-06-18: @boykovdn will give am Intro to Flow Matching 101
